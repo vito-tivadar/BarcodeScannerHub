@@ -2,6 +2,8 @@
 
 An ESP32 firmware that bridges a Bluetooth LE barcode scanner to any HTTP/HTTPS webhook endpoint. Configuration is done entirely through a built-in web interface — no recompilation needed.
 
+Working with [NETUM L8BL](https://doc1.netum.net/L8BL/en/)
+
 ---
 
 ## Features
@@ -174,4 +176,4 @@ Contributions are welcome. Please:
 
 ## License
 
-[MIT](LICENSE)
+[GPL-3.0 license](LICENSE)
